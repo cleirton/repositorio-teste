@@ -1,2 +1,2 @@
-# repositorio-teste
- repositório de teste GitHub
+# Repositorio-teste
+ Aprendendo Github! Repositório de teste.
